@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Translations">
+        <file>eng.qm</file>
+        <file>ru.qm</file>
+    </qresource>
+    <qresource prefix="/ikonki">
+        <file>icon-redact.png</file>
+        <file>icons-del.png</file>
+        <file>icons-newwind.png</file>
+        <file>icons-open.png</file>
+        <file>icons-plus.png</file>
+        <file>icons-d.png</file>
+        <file>icons-save.png</file>
+        <file>icons8-информация-128.png</file>
+        <file>united-kingdom-flag.png</file>
+        <file>russia-flag.png</file>
+    </qresource>
+    <qresource prefix="/fonovie">
+        <file>fon.jpg</file>
+        <file>eng.jpg</file>
+        <file>rus.jpg</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>RAM.db</file>
+    </qresource>
+</RCC>
